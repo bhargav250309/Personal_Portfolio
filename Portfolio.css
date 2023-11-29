@@ -121,11 +121,10 @@ nav ul li a:hover::after {
 }
 
 .about-col-1 img {
+    width: 100%;
     object-fit: cover;
     border-radius: 15px;
     filter: brightness(90%);
-    /* width: min(100% - 15px , 850px);
-    margin-inline: auto; */
 }
 
 .about-col-2 {
