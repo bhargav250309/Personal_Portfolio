@@ -468,6 +468,13 @@ nav .fas{
     }
     
 }
+@media only screen and (max-width: 768px) {
+    .header-text{
+        margin-top: 144%;
+        font-size: 16px;
+        overflow: hidden;
+    }
+}
 
 #msg{
     color: #61b752;
